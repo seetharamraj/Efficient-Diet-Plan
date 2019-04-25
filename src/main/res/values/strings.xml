@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EfficientDietPlan</string>
+
+    <string-array name="names">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+</resources>
